@@ -1,4 +1,4 @@
-### note-taker
+# Express.js Notetaker
 ### Acceptance Criteria 
 > GIVEN a note-taking application    
 > WHEN I open the Note Taker    
