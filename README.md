@@ -1,4 +1,7 @@
 # Express.js Notetaker
+![image](https://user-images.githubusercontent.com/112996304/205194993-be673c1d-6132-4080-a7cf-8c49cae42407.png)
+![image](https://user-images.githubusercontent.com/112996304/205195049-9e9bbf39-5bef-46a2-b65a-129f8f5981be.png)
+
 ### User Story          
 > I WANT to be able to write and save notes      
 > SO THAT I can organize my thoughts and keep track of tasks I need to complete    
