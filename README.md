@@ -16,4 +16,5 @@
 
 ### **Links**
 [Link to the code repository](https://github.com/hlampton/note-taker)
+
 [Link to Heroku app](https://notetakingapp27.herokuapp.com/)
